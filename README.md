@@ -125,15 +125,6 @@ Everything above that layer — segment tables, number formatting, button decode
 
 ---
 
-## Documents
-
-- [Datasheet](docs/TM1637_Display_Module_Datasheet.pdf)
-- [Pinout](docs/images/tm1637-pinout.png)
-- [Board dimensions](docs/images/tm1637-dimensions.png)
-- [Digit and segment map](docs/digit-map.md)
-
----
-
 ## Licence
 
 Released under the MIT Licence. You may use this code in commercial products without restriction. See [LICENSE](LICENSE).
