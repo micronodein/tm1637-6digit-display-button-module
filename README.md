@@ -5,7 +5,7 @@
 Micronode LLP, Pune, India — [micronode.in](https://micronode.in)
 
 <p align="center">
-  <img src="docs/images/tm1637-front.png" width="560" alt="TM1637 6-Digit LED Display & Button Module">
+  <img src="tm1637-6digit-display-button-module/Images/tm1637-front-2.png" width="560" alt="TM1637 6-Digit LED Display & Button Module">
 </p>
 
 ---
